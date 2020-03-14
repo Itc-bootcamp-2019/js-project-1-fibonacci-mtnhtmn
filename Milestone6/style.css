@@ -1,0 +1,27 @@
+.fibo {
+    margin-left: 200px;
+    margin-top: 150px;
+}
+
+.btn-primary{
+    padding: 1px 10px;
+    text-align: center;
+    margin: 1px 5px 1px 5px;
+}
+.fibonacci_text {
+    display: flex;
+    text-align: center;
+    align-content: center;
+}
+
+.spinner-border {
+    /*display: none;*/
+}
+
+.alert {
+    margin-top: 25px;
+    padding: 1px 30px;
+}
+.message {
+    display: flex;
+}
